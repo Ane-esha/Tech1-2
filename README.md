@@ -6,7 +6,7 @@ Used MEDIAN IF NOT BLANK function.
 To Find the average ignoring the outliner but without removing the rows.
 Used Functions SUM IF COUNTA.
 Find the some of the price less than outliner.
-The counted the total rows.
+Then counted the total rows.
 Then divided the SUM by No of total Rows.
 ## Dataset used
 - <a href="https://github.com/Ane-esha/Tech1-2/blob/main/TECH%201%20%26%202.xlsx">Dataset view</a
